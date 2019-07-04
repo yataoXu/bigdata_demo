@@ -1,5 +1,7 @@
 package sparkSQLDemo
 
-class ddd {
-
+object ddd {
+  def main(args: Array[String]): Unit = {
+    print("sdf")
+  }
 }

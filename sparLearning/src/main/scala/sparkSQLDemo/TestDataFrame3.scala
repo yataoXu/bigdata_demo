@@ -9,7 +9,7 @@ object TestDataFrame3 {
     val spark = SparkSession.builder().appName("TestDataFrame3")
       .master("local").getOrCreate()
 
-    val df = spark.read.json("E:\\people.json")
+    val df = spark.read.json("D:\\people.json")
     df.createOrReplaceTempView("people")
     spark.sql("select * from people").show()
   }

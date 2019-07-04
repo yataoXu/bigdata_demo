@@ -3,7 +3,7 @@ package sparkSQLDemo
 import org.apache.spark.sql.SQLContext
 import org.apache.spark.{SparkConf, SparkContext}
 
-////定义case class，相当于表结构
+//定义case class，相当于表结构
 case class People(var name:String,var age:Int)
 object TestDataFrame1 {
   def main(args: Array[String]): Unit = {
@@ -17,7 +17,7 @@ object TestDataFrame1 {
     val context = new SQLContext(sc)
 
     //     将本地的数据读入 RDD， 并将 RDD 与 case class 关联
-    val peopleRDD = sc.textFile("E:\\people.txt").map(line => People(line.split(",")(0), line.split(",")(1).trim.toInt))
+    val peopleRDD = sc.textFile("D:\\people.txt").map(line => People(line.split(",")(0), line.split(",")(1).trim.toInt))
     // 将RDD 转换成 DataFrames
     import context.implicits._
     val df = peopleRDD.toDF

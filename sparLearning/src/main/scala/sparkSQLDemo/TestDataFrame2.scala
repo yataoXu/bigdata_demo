@@ -8,7 +8,7 @@ object TestDataFrame2 {
     val spark = SparkSession.builder().appName("TestDataFrame3")
       .master("local").getOrCreate()
 
-    val fileRDD = spark.sparkContext.textFile("E:\\people.txt")
+    val fileRDD = spark.sparkContext.textFile("D:\\people.txt")
     val schemaString = "name age"
 
     val fields = schemaString.split(" ")
