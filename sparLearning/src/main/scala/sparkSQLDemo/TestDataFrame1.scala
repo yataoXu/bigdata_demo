@@ -16,7 +16,7 @@ object TestDataFrame1 {
     val sc = new SparkContext(conf)
     val context = new SQLContext(sc)
 
-    //     将本地的数据读入 RDD， 并将 RDD 与 case class 关联
+    //将本地的数据读入 RDD， 并将 RDD 与 case class 关联
     val peopleRDD = sc.textFile("D:\\people.txt").map(line => People(line.split(",")(0), line.split(",")(1).trim.toInt))
     // 将RDD 转换成 DataFrames
     import context.implicits._

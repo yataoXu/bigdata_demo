@@ -44,7 +44,6 @@ class AccountWritable
         this.gender = new BooleanWritable(gender.get());
     }
 
-    @Override
     public int compareTo(AccountWritable o) {
         int comp = this.code.compareTo(o.code);
         if (comp != 0) {
@@ -64,14 +63,13 @@ class AccountWritable
         }
     }
 
-    @Override
+
     public void write(DataOutput out) throws IOException {
         code.write(out);
         name.write(out);
         gender.write(out);
     }
 
-    @Override
     public void readFields(DataInput in) throws IOException {
         code.readFields(in);
         name.readFields(in);
@@ -89,7 +87,6 @@ class AccountWritable
         private BooleanWritable.Comparator bc =
                 new BooleanWritable.Comparator();
 
-        @Override
         public int compare(byte[] b1, int s1, int l1, byte[] b2, int s2, int l2) {
             // code被序列化后在b1和b2数组中的起始位置以及字节长度
             int firstLength = 4;
@@ -147,7 +144,6 @@ class AccountWritable
             return viw.get();
         }
 
-        @Override
         public int compare(AccountWritable o1, AccountWritable o2) {
             ByteArrayOutputStream baos1 = new ByteArrayOutputStream();
             DataOutputStream dos1 = new DataOutputStream(baos1);
