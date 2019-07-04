@@ -1,159 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c54188d7-e2a3-492d-a8ce-859f0da43163" name="Default Changelist" comment="sdfsdfsfd">
-      <change afterPath="$PROJECT_DIR$/sparLearning/src/main/scala/sparkRDDDemo/test.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/P00120_AccountWritable_0010.java" beforeDir="false" afterPath="$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/P00120_AccountWritable_0010.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/SparSQLFunDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/SparSQLFunDemo.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame1.scala" beforeDir="false" afterPath="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame1.scala" afterDir="false" />
-    </list>
-    <ignored path="$PROJECT_DIR$/sparLearning/target/" />
+    <list default="true" id="54c6dafd-d569-497e-928b-2034c7546f96" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/sparkLearning/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/elasticsearchdemo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/sparkLearn$SparSQLFunDemo.ic" NAME="SparSQLFunDemo Coverage Results" MODIFIED="1562221917355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>sparkSQLDemo.*</FILTER>
-    </SUITE>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/P00120_AccountWritable_0010.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-375">
-              <caret line="92" column="33" lean-forward="true" selection-start-line="92" selection-start-column="33" selection-end-line="92" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame1.scala">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame2.scala">
+        <entry file="file://$PROJECT_DIR$/elasticsearchdemo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/SparSQLFunDemo.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="418" selection-start-line="418" selection-end-line="426" selection-end-column="37" />
-              <folding>
-                <element signature="e#22#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/HadoopSerializationUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/ddd.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/mapreduce/WrodCountApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-325">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkRDDDemo/test.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame3.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/options.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="575">
+              <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>E:</find>
-      <find>months_betweendemo</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/elasticsearchdemo/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/sparLearning/pom.xml" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame2.scala" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame3.scala" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/resources/scriptFile.scala" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/ddd.scala" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestParquetDemo.scala" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/resources/visit.txt" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestReadDemo.scala" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame1.scala" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/scala/sparkRDDDemo/test.scala" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/P00120_AccountWritable_0010.java" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/options.scala" />
-        <option value="$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/SparSQLFunDemo.scala" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../tool/apache-maven-3.6.1" />
+        <option name="mavenHome" value="D:/tool/apache-maven-3.6.1" />
         <option name="userSettingsFile" value="D:\tool\apache-maven-3.6.1\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -163,13 +58,27 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="working" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="elasticsearcdemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="elasticsearcdemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sparkLearning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sparkLearning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="826" />
     <option name="width" value="1101" />
     <option name="height" value="1047" />
@@ -186,57 +95,24 @@
         <subPane>
           <expand>
             <path>
-              <item name="sparkLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="working" type="b2602c69:ProjectViewProjectNode" />
               <item name="working" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sparkLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="working" type="b2602c69:ProjectViewProjectNode" />
               <item name="working" type="462c0819:PsiDirectoryNode" />
-              <item name="sparLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchdemo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sparkLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="working" type="b2602c69:ProjectViewProjectNode" />
               <item name="working" type="462c0819:PsiDirectoryNode" />
-              <item name="sparLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearchdemo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="sparkLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="working" type="b2602c69:ProjectViewProjectNode" />
               <item name="working" type="462c0819:PsiDirectoryNode" />
-              <item name="sparLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="working" type="462c0819:PsiDirectoryNode" />
-              <item name="sparLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="working" type="462c0819:PsiDirectoryNode" />
-              <item name="sparLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="working" type="462c0819:PsiDirectoryNode" />
-              <item name="sparLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="sparkSQLDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sparkLearn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="working" type="462c0819:PsiDirectoryNode" />
-              <item name="sparLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkLearning" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,11 +122,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562225899299" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -264,391 +139,80 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SparSQLFunDemo">
-    <configuration name="SparSQLFunDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="sparkSQLDemo.SparSQLFunDemo" />
-      <module name="sparLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sparkSQLDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SparkRDDDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="SparkRDDDemo" />
-      <module name="sparLearning" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestDataFrame1" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="sparkSQLDemo.TestDataFrame1" />
-      <module name="sparLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sparkSQLDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ddd" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="sparkSQLDemo.ddd" />
-      <module name="sparLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sparkSQLDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="sparkRDDDemo.test" />
-      <module name="sparLearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sparkRDDDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SparSQLFunDemo" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.TestDataFrame1" />
-        <item itemvalue="Application.ddd" />
-        <item itemvalue="Application.SparkRDDDemo" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c54188d7-e2a3-492d-a8ce-859f0da43163" name="Default Changelist" comment="" />
-      <created>1562134319171</created>
+      <changelist id="54c6dafd-d569-497e-928b-2034c7546f96" name="Default Changelist" comment="" />
+      <created>1562226896369</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1562134319171</updated>
-      <workItem from="1562134323037" duration="486000" />
-      <workItem from="1562134948762" duration="1543000" />
-      <workItem from="1562162850611" duration="1458000" />
-      <workItem from="1562164523545" duration="313000" />
-      <workItem from="1562164867007" duration="22977000" />
+      <updated>1562226896369</updated>
+      <workItem from="1562226898219" duration="231000" />
     </task>
-    <task id="LOCAL-00001" summary="sdfsdfsfd">
-      <created>1562203851159</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1562203851159</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26777000" />
+    <option name="totallyTimeSpent" value="231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="826" y="0" width="1101" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32713348" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22234392" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.415115" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3263965" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32949087" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" visible="true" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.24583964" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="sdfsdfsfd" />
-    <option name="LAST_COMMIT_MESSAGE" value="sdfsdfsfd" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sparLearning/sparLearning.iml" />
+    <entry file="file://$PROJECT_DIR$/elasticsearchdemo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="56" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="45" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestMysql.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/spark/spark-sql_2.11/2.3.2/spark-sql_2.11-2.3.2.jar!/org/apache/spark/sql/Dataset.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="88" column="6" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestParquetDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/resources/visit.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/SparkRDDDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/HDFSAPILearning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/WordCount.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestReadDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/SerializationCompare_0010.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/MyWritable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/HadoopSerializationUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/ddd.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame1.scala">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame2.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkRDDDemo/test.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/serializeDemo/P00120_AccountWritable_0010.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-375">
-          <caret line="92" column="33" lean-forward="true" selection-start-line="92" selection-start-column="33" selection-end-line="92" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/TestDataFrame3.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/options.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/mapreduce/WrodCountApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-325">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sparLearning/src/main/scala/sparkSQLDemo/SparSQLFunDemo.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="418" selection-start-line="418" selection-end-line="426" selection-end-column="37" />
-          <folding>
-            <element signature="e#22#62#0" expanded="true" />
-          </folding>
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.11.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>sparLearning</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
